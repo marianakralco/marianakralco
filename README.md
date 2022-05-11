@@ -1,4 +1,4 @@
-![readme-cover](https://user-images.githubusercontent.com/66708768/167753881-16f94ba1-8de1-411d-9afe-e747a7c29355.png)
+![readme-cover](https://user-images.githubusercontent.com/66708768/167901465-90df3982-de6a-472c-b12a-90d744745659.png)
 
 ### Hi there 👋
 
