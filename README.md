@@ -1,4 +1,4 @@
-![readme-cover](https://user-images.githubusercontent.com/66708768/167901465-90df3982-de6a-472c-b12a-90d744745659.png)
+![readme-cover](https://github.com/marianakralco/docs/blob/main/mkcover.png?raw=true)
 
 ### Hi there 👋
 
